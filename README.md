@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm John Ackert and I'm currently learning how to use Git correctly
+
 <!--
 **jdackert12/jdackert12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
